@@ -1,0 +1,64 @@
+
+## Visual Studio: archivos de usuario y configuración local
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Compilación: resultados generados
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]RM/
+[Aa]RM64/
+[Aa]ny[Dd]ebug/
+[Aa]ny[Rr]elease/
+
+## Archivos generados por .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/packages/
+
+## Visual Studio: caché y archivos temporales
+*.cache
+*.tmp_proj
+*.log
+*.pdb
+*.ilk
+*.meta
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+## Cobertura y resultados de pruebas
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+.idea/
+*.sln.iml
+
+## Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Archivos temporales y respaldos
+*~
+*.bak
+*.old
+*.orig
+
+## Publicación generada
+publish/
